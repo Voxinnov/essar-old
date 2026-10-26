@@ -1,0 +1,24 @@
+[09-Jan-2020 14:06:13 Asia/Calcutta] PHP Warning:  unlink(upload/medicalproduct/): Is a directory in /home/essaren/public_html/ese_adm_ais/edit_medical_product.php on line 64
+[20-Jul-2020 12:07:33 Asia/Calcutta] PHP Warning:  unlink(upload/medicalproduct/): Is a directory in /home/essaren/public_html/ese_adm_ais/edit_medical_product.php on line 64
+[20-Jul-2020 12:10:48 Asia/Calcutta] PHP Warning:  unlink(upload/medicalproduct/): Is a directory in /home/essaren/public_html/ese_adm_ais/edit_medical_product.php on line 64
+[16-May-2021 14:26:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function getcategory() on null in /home/essaren/public_html/ese_adm_ais/slider.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/essaren/public_html/ese_adm_ais/slider.php on line 74
+[16-May-2021 14:27:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function getcategory() on null in /home/essaren/public_html/ese_adm_ais/slider.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/essaren/public_html/ese_adm_ais/slider.php on line 74
+[16-May-2021 14:27:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function getcategory() on null in /home/essaren/public_html/ese_adm_ais/slider.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/essaren/public_html/ese_adm_ais/slider.php on line 74
+[16-May-2021 14:46:08 Asia/Calcutta] PHP Warning:  unlink(upload/slider/): Is a directory in /home/essaren/public_html/ese_adm_ais/edit_slider.php on line 44
+[06-Mar-2022 19:23:54 Asia/Calcutta] PHP Warning:  unlink(upload/maincategory/): Is a directory in /home/essaren/public_html/ese_adm_ais/edit_traffic_cat.php on line 51
+[06-Mar-2022 19:25:03 Asia/Calcutta] PHP Warning:  unlink(upload/about--1145.jpg): No such file or directory in /home/essaren/public_html/ese_adm_ais/trf_about.php on line 48
+[30-Mar-2022 10:36:13 Asia/Calcutta] PHP Warning:  unlink(upload/slider/): Is a directory in /home/essaren/public_html/ese_adm_ais/edit_slider.php on line 44
+[26-Nov-2022 00:45:26 Asia/Calcutta] PHP Warning:  unlink(upload/maincategory/): Is a directory in /home/essaren/public_html/ese_adm_ais/edit_medical_main_category.php on line 44
+[16-Mar-2024 22:48:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method RecordDelete::deleteSlider() in /home/essaren/public_html/ese_adm_ais/delete_slider.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/essaren/public_html/ese_adm_ais/delete_slider.php on line 15
